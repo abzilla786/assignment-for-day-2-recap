@@ -22,3 +22,7 @@ below i will show all the commands we have learnt in a list and describe what th
 14.cat <file>: this command allows you to view the contents within a file
 
 ##git
+
+today we also learnt how to use git and its relevant commands to be able to log changes to projects on timelines and also add files to github repositories remotely.
+
+below i will create a list to show the commands we have learnt and what they are used for:
