@@ -35,3 +35,5 @@ below i will create a list to show the commands we have learnt and what they are
 6.git remote --v: this command is used to check the remote repo origin of your project (repository location on github)
 
 ##github
+
+today we learnt how useful github can be. it allows you to give a wide community and colleagues access to your project files and code. you can request help or help others. this also holds a copy of your project and stores it within a remote repository which you can secure using ssh and gbg security keys. without the key you would not be able to access the files or edit them. github can be especially useful as it combines all the timelines into one file and allows you to view previous versions of your work suing git without having to worry about your files being deleting as it stores a copy remotely.
