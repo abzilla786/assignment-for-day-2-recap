@@ -26,3 +26,12 @@ below i will show all the commands we have learnt in a list and describe what th
 today we also learnt how to use git and its relevant commands to be able to log changes to projects on timelines and also add files to github repositories remotely.
 
 below i will create a list to show the commands we have learnt and what they are used for:
+
+1. git innit: this is used for committing to a repository and creating a git direcory within the location for access to master status
+2. git status: this command is used for checking the status of a directory and what files are available within.
+3.git add <file> or .: this is used for adding all updated files to your directory for logging and editing with git
+4.git log: this command allows you to check the current logs that have been added to your files. your can also use certain info from this to access previous versions of your project files
+5.git commit -m: this command allows you to add logs to the timeline for your current project that you have accessed with master status.
+6.git remote --v: this command is used to check the remote repo origin of your project (repository location on github)
+
+##github
