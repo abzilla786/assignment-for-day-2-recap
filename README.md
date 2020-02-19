@@ -1,6 +1,6 @@
-#Recap of what we learnt about the terminal
+# Recap of what we learnt about the terminal
 
-##BASH
+## BASH
 
 in regards to bash we learnt various commands which would allow us to make use of the terminal for effective logging of projects and ease of access for creating directories and creating files within them.
 
@@ -21,7 +21,7 @@ below i will show all the commands we have learnt in a list and describe what th
 - echo 'string': this command allows you to push something into a file
 - cat <file>: this command allows you to view the contents within a file
 
-##git
+## git
 
 today we also learnt how to use git and its relevant commands to be able to log changes to projects on timelines and also add files to github repositories remotely.
 
@@ -34,6 +34,6 @@ below i will create a list to show the commands we have learnt and what they are
 - git commit -m: this command allows you to add logs to the timeline for your current project that you have accessed with master status.
 - git remote --v: this command is used to check the remote repo origin of your project (repository location on github)
 
-##github
+## github
 
 today we learnt how useful github can be. it allows you to give a wide community and colleagues access to your project files and code. you can request help or help others. this also holds a copy of your project and stores it within a remote repository which you can secure using ssh and gbg security keys. without the key you would not be able to access the files or edit them. github can be especially useful as it combines all the timelines into one file and allows you to view previous versions of your work suing git without having to worry about your files being deleting as it stores a copy remotely.
